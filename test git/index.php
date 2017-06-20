@@ -16,3 +16,4 @@ and open the template in the editor.
     </body>
 </html>
 Wersja poprawiona w rpozytorium www
+Jakieś tam zmiane w gałęzi test
